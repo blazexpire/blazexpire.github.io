@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Yaochi Guo"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yaochi Guo"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yaochi Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "HKUST(GZ) 1-year PhD student, major in AI4Bio and LLM."
+  location         : "Guangzhou"
+  employer         : "Hong Kong University of Science and Technology (Guangzhou)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yguo933@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -68,7 +68,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "blazexpire"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
